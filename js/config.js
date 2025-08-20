@@ -20,7 +20,7 @@ const SITE_CONFIG = {
     version: '1.0.3'
 };
 
-
+// API配置
 const API_SITES = {
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
